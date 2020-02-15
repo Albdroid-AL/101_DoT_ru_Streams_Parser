@@ -21,6 +21,8 @@ poetry.lock
 pyproject.toml
 
 requirements.txt
+
 res.json
+
 ---------------------------
 THESE AND RUN IT AND WAIT TO GET M3U LIST
