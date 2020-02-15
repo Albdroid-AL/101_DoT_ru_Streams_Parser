@@ -1,0 +1,425 @@
+#EXTM3U Albdroid TV Streaming - 101.RU Radio Channels
+#EXTINF:-1,Channels of Relax FM - Relax Gold
+http://101.ru/api/channel/getServers/266/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Channels of Relax FM - Relax Jazz
+http://101.ru/api/channel/getServers/264/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Channels of Relax FM - Relax Latino
+http://101.ru/api/channel/getServers/265/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Channels of Relax FM - Relax Life
+http://101.ru/api/channel/getServers/267/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Channels of Relax FM - Relax Nature
+http://101.ru/api/channel/getServers/263/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,No Group - Vokrug TV
+http://101.ru/api/channel/getServers/284/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Детское радио - 1 september
+http://101.ru/api/channel/getServers/309/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Детское радио - Children's Stories
+http://101.ru/api/channel/getServers/222/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Детское радио - Grigory Gladkov
+http://101.ru/api/channel/getServers/94/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Детское радио - Lullaby
+http://101.ru/api/channel/getServers/95/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Детское радио - Songs for Kids
+http://101.ru/api/channel/getServers/93/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Джаз, блюз - Blues
+http://101.ru/api/channel/getServers/76/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Джаз, блюз - Funk & Soul
+http://101.ru/api/channel/getServers/84/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Джаз, блюз - Jazz
+http://101.ru/api/channel/getServers/85/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Джаз, блюз - Smooth Jazz
+http://101.ru/api/channel/getServers/31/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Джаз, блюз - Swing
+http://101.ru/api/channel/getServers/90/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Классическая музыка - Classical Music
+http://101.ru/api/channel/getServers/98/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Классическая музыка - NeoClassical
+http://101.ru/api/channel/getServers/275/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Классическая музыка - Opera
+http://101.ru/api/channel/getServers/96/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Классическая музыка - Pop Classical Music
+http://101.ru/api/channel/getServers/97/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - ABBA
+http://101.ru/api/channel/getServers/104/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Adriano Celentano
+http://101.ru/api/channel/getServers/277/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Agatha Christy
+http://101.ru/api/channel/getServers/139/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Alexandr Rosenbaum
+http://101.ru/api/channel/getServers/153/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Alisa
+http://101.ru/api/channel/getServers/137/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Alla Pugacheva
+http://101.ru/api/channel/getServers/56/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Aria
+http://101.ru/api/channel/getServers/118/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - BG & Aquarium
+http://101.ru/api/channel/getServers/57/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - BI-2
+http://101.ru/api/channel/getServers/135/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Boney M.
+http://101.ru/api/channel/getServers/114/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Chaif
+http://101.ru/api/channel/getServers/106/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - DDT
+http://101.ru/api/channel/getServers/112/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Deep Purple
+http://101.ru/api/channel/getServers/125/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Depeche Mode
+http://101.ru/api/channel/getServers/105/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Elena Vaenga
+http://101.ru/api/channel/getServers/171/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Elton John
+http://101.ru/api/channel/getServers/142/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Elvis Presley
+http://101.ru/api/channel/getServers/111/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Enigma
+http://101.ru/api/channel/getServers/175/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Gorky Park
+http://101.ru/api/channel/getServers/182/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Hands Up!
+http://101.ru/api/channel/getServers/163/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Kasta
+http://101.ru/api/channel/getServers/121/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Korol i Shut
+http://101.ru/api/channel/getServers/191/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Laskoviy May
+http://101.ru/api/channel/getServers/119/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Leningrad
+http://101.ru/api/channel/getServers/133/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Linkin Park
+http://101.ru/api/channel/getServers/149/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Lube
+http://101.ru/api/channel/getServers/158/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Madonna
+http://101.ru/api/channel/getServers/128/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Metallica
+http://101.ru/api/channel/getServers/123/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Michael Jackson
+http://101.ru/api/channel/getServers/52/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Michael Krug
+http://101.ru/api/channel/getServers/110/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Modern Talking
+http://101.ru/api/channel/getServers/115/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Muslim Magomaev
+http://101.ru/api/channel/getServers/156/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Mylene Farmer
+http://101.ru/api/channel/getServers/166/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Nautilus Pompilius
+http://101.ru/api/channel/getServers/126/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Philipp Kirkorov
+http://101.ru/api/channel/getServers/116/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Picnic
+http://101.ru/api/channel/getServers/157/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Pink Floyd
+http://101.ru/api/channel/getServers/53/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Prince
+http://101.ru/api/channel/getServers/282/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Queen
+http://101.ru/api/channel/getServers/54/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Robbie Williams
+http://101.ru/api/channel/getServers/138/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Sandra
+http://101.ru/api/channel/getServers/179/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Scorpions
+http://101.ru/api/channel/getServers/113/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Splin
+http://101.ru/api/channel/getServers/129/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Stas Mikhailov
+http://101.ru/api/channel/getServers/154/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - The Beatles
+http://101.ru/api/channel/getServers/55/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - The Prodigy
+http://101.ru/api/channel/getServers/306/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - The Rolling Stones
+http://101.ru/api/channel/getServers/117/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Time Machine
+http://101.ru/api/channel/getServers/59/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Tsoy & KINO
+http://101.ru/api/channel/getServers/103/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - U2
+http://101.ru/api/channel/getServers/109/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Vladimir Visotsky
+http://101.ru/api/channel/getServers/58/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Лучшая музыка - Чиж & Co
+http://101.ru/api/channel/getServers/221/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Мировая музыка - Armenia
+http://101.ru/api/channel/getServers/60/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Мировая музыка - Caucasus Hits
+http://101.ru/api/channel/getServers/39/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Мировая музыка - Chanson Française
+http://101.ru/api/channel/getServers/146/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Мировая музыка - Country
+http://101.ru/api/channel/getServers/78/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Мировая музыка - France
+http://101.ru/api/channel/getServers/68/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Мировая музыка - Gypsy Music
+http://101.ru/api/channel/getServers/61/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Мировая музыка - Italia
+http://101.ru/api/channel/getServers/65/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Мировая музыка - Japanese Music
+http://101.ru/api/channel/getServers/62/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Мировая музыка - Oriental Music
+http://101.ru/api/channel/getServers/67/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Мировая музыка - Reggae
+http://101.ru/api/channel/getServers/88/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Мировая музыка - Russian Reggae
+http://101.ru/api/channel/getServers/44/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Мировая музыка - Tatar National Music
+http://101.ru/api/channel/getServers/262/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Мировая музыка - Tatar Pop
+http://101.ru/api/channel/getServers/246/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Мировая музыка - Ukraine
+http://101.ru/api/channel/getServers/66/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Мировая музыка - Warsaw Pact Archive
+http://101.ru/api/channel/getServers/177/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Поп - 101 Fresh
+http://101.ru/api/channel/getServers/148/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - 90's Gold
+http://101.ru/api/channel/getServers/75/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - 90's Pop
+http://101.ru/api/channel/getServers/130/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - Autoradio Music
+http://101.ru/api/channel/getServers/2/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - Cats & Dogs
+http://101.ru/api/channel/getServers/281/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - Eurovision
+http://101.ru/api/channel/getServers/147/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - Golden 70's
+http://101.ru/api/channel/getServers/192/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - Happy Hours
+http://101.ru/api/channel/getServers/273/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Поп - Hype
+http://101.ru/api/channel/getServers/286/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - Live Hits
+http://101.ru/api/channel/getServers/86/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - Love Songs
+http://101.ru/api/channel/getServers/29/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Поп - Mainstream
+http://101.ru/api/channel/getServers/87/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Поп - Musicals
+http://101.ru/api/channel/getServers/92/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - OST Serial
+http://101.ru/api/channel/getServers/308/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - Radio 101 Classics
+http://101.ru/api/channel/getServers/283/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - Russia Top 50
+http://101.ru/api/channel/getServers/34/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - Russian Pop
+http://101.ru/api/channel/getServers/155/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - Stars Factory
+http://101.ru/api/channel/getServers/48/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - Summer Fest
+http://101.ru/api/channel/getServers/285/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - Touch 101
+http://101.ru/api/channel/getServers/196/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Поп - Voice
+http://101.ru/api/channel/getServers/198/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Поп - Voice Children
+http://101.ru/api/channel/getServers/287/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Радио - Autoradio
+http://101.ru/api/channel/getServers/100/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - Comedy Radio
+http://101.ru/api/channel/getServers/202/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - Crocus City Hall
+http://101.ru/api/channel/getServers/213/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - Deti FM
+http://101.ru/api/channel/getServers/199/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - First Music Station
+http://101.ru/api/channel/getServers/204/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Радио - Humor FM
+http://101.ru/api/channel/getServers/102/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - Like FM
+http://101.ru/api/channel/getServers/219/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - Marusya FM
+http://101.ru/api/channel/getServers/301/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - Megapolis
+http://101.ru/api/channel/getServers/180/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - Native Roads Radio
+http://101.ru/api/channel/getServers/307/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Радио - Radio Day
+http://101.ru/api/channel/getServers/303/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - Radio ENERGY
+http://101.ru/api/channel/getServers/99/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - Radio KP
+http://101.ru/api/channel/getServers/194/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - Radio Romantika
+http://101.ru/api/channel/getServers/101/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - Radio Vanya
+http://101.ru/api/channel/getServers/304/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - Radio Vera
+http://101.ru/api/channel/getServers/207/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - Radiola
+http://101.ru/api/channel/getServers/209/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - Relax FM
+http://101.ru/api/channel/getServers/200/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - Relax-Christmas
+http://101.ru/api/channel/getServers/258/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - Zenit Radio
+http://101.ru/api/channel/getServers/269/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Радио - ТNТ Music Radio
+http://101.ru/api/channel/getServers/274/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Ретро музыка - New York
+http://101.ru/api/channel/getServers/64/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Ретро музыка - Polska Retro Plus
+http://101.ru/api/channel/getServers/165/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Ретро музыка - Soviet VIA
+http://101.ru/api/channel/getServers/36/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Ретро музыка - USSR 30-50
+http://101.ru/api/channel/getServers/46/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Ретро музыка - USSR 50-70
+http://101.ru/api/channel/getServers/47/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рок - Alternative
+http://101.ru/api/channel/getServers/176/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рок - BritPop
+http://101.ru/api/channel/getServers/206/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рок - Football music
+http://101.ru/api/channel/getServers/280/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рок - Indie
+http://101.ru/api/channel/getServers/152/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рок - Instrumental Rock
+http://101.ru/api/channel/getServers/183/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рок - Metal
+http://101.ru/api/channel/getServers/211/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рок - Modern Rock
+http://101.ru/api/channel/getServers/16/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рок - Our Metal
+http://101.ru/api/channel/getServers/257/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рок - Rock
+http://101.ru/api/channel/getServers/69/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Рок - Rock Guitar
+http://101.ru/api/channel/getServers/70/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рок - Rock Hits
+http://101.ru/api/channel/getServers/160/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рок - Rock Remakes
+http://101.ru/api/channel/getServers/71/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рок - Rock'n'Roll
+http://101.ru/api/channel/getServers/89/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рок - Route 101
+http://101.ru/api/channel/getServers/185/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рок - Russian Rock
+http://101.ru/api/channel/getServers/42/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Рок - Thrash
+http://101.ru/api/channel/getServers/73/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Русская - Author's Song
+http://101.ru/api/channel/getServers/35/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Русская - Cabaret «Chanson»
+http://101.ru/api/channel/getServers/49/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Русская - Military Songs
+http://101.ru/api/channel/getServers/37/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Русская - Russian Chanson
+http://101.ru/api/channel/getServers/50/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Русская - Russian Songs
+http://101.ru/api/channel/getServers/41/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Русская - Victory Day
+http://101.ru/api/channel/getServers/178/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рэп, Хип-Хоп - French Rap
+http://101.ru/api/channel/getServers/240/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рэп, Хип-Хоп - Gangsta & Hip-Hop
+http://101.ru/api/channel/getServers/8/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рэп, Хип-Хоп - Jazz Rap
+http://101.ru/api/channel/getServers/278/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рэп, Хип-Хоп - R'n'B
+http://101.ru/api/channel/getServers/15/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Рэп, Хип-Хоп - Russian Rap
+http://101.ru/api/channel/getServers/43/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Big Room
+http://101.ru/api/channel/getServers/220/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Club Dance
+http://101.ru/api/channel/getServers/5/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Dance 90's
+http://101.ru/api/channel/getServers/74/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Disco
+http://101.ru/api/channel/getServers/80/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Disco Of The 80's
+http://101.ru/api/channel/getServers/1/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Discotheque USSR
+http://101.ru/api/channel/getServers/144/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Electro
+http://101.ru/api/channel/getServers/7/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Euro Hits
+http://101.ru/api/channel/getServers/82/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Hot Traxx
+http://101.ru/api/channel/getServers/9/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - House
+http://101.ru/api/channel/getServers/10/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Italo Disco
+http://101.ru/api/channel/getServers/161/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Latina
+http://101.ru/api/channel/getServers/63/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Progressive
+http://101.ru/api/channel/getServers/13/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Radio First
+http://101.ru/api/channel/getServers/242/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Russia 90's
+http://101.ru/api/channel/getServers/33/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Russian Dance
+http://101.ru/api/channel/getServers/17/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Summer Non-Stop
+http://101.ru/api/channel/getServers/150/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Танцевальная - Zumba
+http://101.ru/api/channel/getServers/259/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Фоновая - Acoustic
+http://101.ru/api/channel/getServers/164/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Фоновая - Ambient
+http://101.ru/api/channel/getServers/23/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Фоновая - Chillоut
+http://101.ru/api/channel/getServers/24/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Фоновая - Deep House
+http://101.ru/api/channel/getServers/173/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Фоновая - Easy Listening
+http://101.ru/api/channel/getServers/26/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Фоновая - Instrumental
+http://101.ru/api/channel/getServers/28/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Фоновая - New Age
+http://101.ru/api/channel/getServers/120/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Фоновая - Office Lounge
+http://101.ru/api/channel/getServers/30/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Фоновая - Sex
+http://101.ru/api/channel/getServers/27/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Фоновая - Soulful House
+http://101.ru/api/channel/getServers/184/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Фоновая - Sounds Of Nature
+http://101.ru/api/channel/getServers/32/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Фоновая - Soundtracks
+http://101.ru/api/channel/getServers/25/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Фоновая - Tantra
+http://101.ru/api/channel/getServers/241/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Электронная музыка - Breakbeat
+http://101.ru/api/channel/getServers/4/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Электронная музыка - Chillstep
+http://101.ru/api/channel/getServers/260/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Электронная музыка - Cyber Space
+http://101.ru/api/channel/getServers/79/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Электронная музыка - Drum & Bass
+http://101.ru/api/channel/getServers/6/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Электронная музыка - DubStep
+http://101.ru/api/channel/getServers/136/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Электронная музыка - Electronic
+http://101.ru/api/channel/getServers/132/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Электронная музыка - Liquid Funk
+http://101.ru/api/channel/getServers/272/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Электронная музыка - Rave
+http://101.ru/api/channel/getServers/151/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Электронная музыка - Tech House
+http://101.ru/api/channel/getServers/170/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Электронная музыка - Techno
+http://101.ru/api/channel/getServers/18/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Электронная музыка - Trance
+http://101.ru/api/channel/getServers/19/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Электронная музыка - Trap
+http://101.ru/api/channel/getServers/193/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Этническая - Russian Ethnics
+http://101.ru/api/channel/getServers/51/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Этническая - Russian Folk
+http://101.ru/api/channel/getServers/40/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Этническая - Sacred Music
+http://101.ru/api/channel/getServers/38/channel/AAC/128/dataFormat/mobile
+#EXTINF:-1,Юмор - Anecdotes
+http://101.ru/api/channel/getServers/20/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Юмор - Classics of the Humor
+http://101.ru/api/channel/getServers/21/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Юмор - Humor Non-Stop
+http://101.ru/api/channel/getServers/22/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Юмор - Murzilki Int.
+http://101.ru/api/channel/getServers/3/channel/AAC/128/dataFormat/mobile
