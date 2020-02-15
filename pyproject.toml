@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "runner"
+version = "0.1.0"
+description = "M3U TESTING"
+authors = ["SXT BOX TRC4@USA.COM"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+Requests = "^2.22"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
